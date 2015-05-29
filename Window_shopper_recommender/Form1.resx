@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="fileSystemWatcher1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>26</value>
+  </metadata>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>335, 17</value>
+  </metadata>
+  <data name="PesoSesso.ToolTip" xml:space="preserve">
+    <value>How much the application have to take into account that the person is watching is a man/woman.
+Give high value in the bar if you want that the application suggests a lot of images for the selected gender.
+ 
+</value>
+  </data>
+  <data name="label16.Text" xml:space="preserve">
+    <value>PLEASE NOTICE:
+- Don't change the names of the DATABASE folder and subfolders.
+  In case, there is a ".txt" file to explain how to recover the original framework.
+- The operation for fetures computation could take a while.</value>
+  </data>
+  <data name="textBox2.Text" xml:space="preserve">
+    <value>2) "Looking at" means which area of the window shop the user is looking at.
+There are three categories in which the window shop is subdivided: Man, Woman, Kids.
+EX: if you chose Woman-&gt; Shoes;Dress it is like that the user's gaze is oriented on those 
+categories of products.
+The trackbar associated allows you to chose the wight of the gaze orientation wihin a range from 
+0 to 10. EX: choosing weight=5 means in the final suggestion there will be one half of the total number 
+of images will be selected taking into account that the user gaze orientation. The other one half will 
+be choosen for the gender.
+
+3) "Color". The trackbar associated allows you to chose the weight of the user worn colors the  wihin
+a range from 0 to 10. EX: choosing weight=5 means in the final suggestion there will be one half 
+of the total number of the gender images will be selected taking into account that the user worn colors. 
+The other one half will be choosen randomly, and  one half of the total number of the gaze orientation
+images will be selected taking into account that the user worn colors. 
+The other one half will be choosen randomly.
+
+
+Step 3 page:
+The application shows the results subdivided for gender and for gaze orientation.
+</value>
+  </data>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>Welcome page:
+This page is an introduction for the application.
+The only available button is the "ENJOY".
+Press this button to access.
+This page will compare each time you restart the appication.
+
+Step 0 page:
+This page allow to compute the features of the database images.
+It is mandatory to click the button "COMPUTE FEATURES" the first time
+you enjoy the application.
+You have to recompute this operation if and only if you have changed 
+something in the database. EX: in case you add/delate images.
+In any othe cases you can skip this step clicking the button "SKIP THIS STEP".
+
+Step 1 page:
+This page has only one button, that allow you to read the file generated before, 
+it contains the database fetures. 
+It is mandatory to press the button "IMPORT" every time, to continue to use the
+application.
+
+
+Step 2 page:
+This page allow you to browse a test image of the user is looking at the window shop.
+Cliking the button "BROWSE TEST IMAGE", you can import a ".png" image in 
+the application.
+On the right there are three maxi ares:
+
+1)  "Who is wathching" means that you have to click the checkbox "Man" if the gender 
+of the window shopper is Male, else tap "Woman" if the gender is Female.
+The trackbar associated allows you to chose the wight of the gender wihin a range from 
+0 to 10. EX: a woman is watching ,choosing weight=5 means in the final suggestion there
+will be one half of the total number of images will be selected taking into account that the
+user is Female. The other one half will be choosen for the gaze orientation.</value>
+  </data>
+  <metadata name="fileSystemWatcher2.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>176, 17</value>
+  </metadata>
+  <metadata name="helpProvider1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>472, 14</value>
+  </metadata>
+</root>

@@ -1,0 +1,153 @@
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe.config
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.pdb
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\Emgu.CV.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\Emgu.Util.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\ZedGraph.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\Emgu.CV.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\Emgu.Util.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csprojResolveAssemblyReference.cache
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Form1.resources
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Properties.Resources.resources
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csproj.GenerateResource.Cache
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.exe
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.pdb
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\ImageLibrary.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender\Window_shopper_recommender\bin\Debug\ImageLibrary.pdb
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe.config
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.exe
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.pdb
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Form1.resources
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Properties.Resources.resources
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csproj.GenerateResource.Cache
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.pdb
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.CV.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.Util.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\ZedGraph.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.CV.xml
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.Util.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe.config
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.exe
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.pdb
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.pdb
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.CV.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.Util.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\ZedGraph.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.CV.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\Emgu.Util.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csprojResolveAssemblyReference.cache
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Form1.resources
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Properties.Resources.resources
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csproj.GenerateResource.Cache
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender1\Window_shopper_recommender\bin\Debug\MetaDataExtractor.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe.config
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.exe
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.pdb
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.pdb
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.Util.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\ZedGraph.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.xml
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.Util.xml
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Form1.resources
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Properties.Resources.resources
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csproj.GenerateResource.Cache
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe.config
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.exe
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.pdb
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.pdb
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.Util.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\MetaDataExtractor.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\ZedGraph.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\bin\Debug\Emgu.Util.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csprojResolveAssemblyReference.cache
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Form1.resources
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Properties.Resources.resources
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender5-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csproj.GenerateResource.Cache
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe.config
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.exe
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.pdb
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.pdb
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\Emgu.Util.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\MetaDataExtractor.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\ZedGraph.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\bin\Debug\Emgu.Util.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csprojResolveAssemblyReference.cache
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Form1.resources
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Properties.Resources.resources
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender7-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csproj.GenerateResource.Cache
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe.config
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.exe
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.pdb
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.pdb
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\Emgu.Util.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\MetaDataExtractor.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\ZedGraph.dll
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\bin\Debug\Emgu.Util.xml
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csprojResolveAssemblyReference.cache
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Form1.resources
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Properties.Resources.resources
+C:\sofia\unitn\quarto anno\MMNET\Projects\Window_shopper_recommender11-5-2015\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csproj.GenerateResource.Cache
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe.config
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.exe
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.pdb
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Form1.resources
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Properties.Resources.resources
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csproj.GenerateResource.Cache
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.pdb
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.CV.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.Util.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\System.Windows.Controls.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\ZedGraph.dll
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.CV.xml
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Elena\Desktop\progetto [MMNET]\Projects\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.Util.xml
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe.config
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.exe
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.pdb
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.exe
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.pdb
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.CV.dll
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.dll
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.Util.dll
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\MetaDataExtractor.dll
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\ZedGraph.dll
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.CV.xml
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.CV.UI.xml
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Emgu.Util.xml
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csprojResolveAssemblyReference.cache
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Form1.resources
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.Properties.Resources.resources
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\obj\Debug\Window_shopper_recommender.csproj.GenerateResource.Cache
+C:\Users\sofia_000\Desktop\Window_shopper_recommender11-5-2015new\Window_shopper_recommender\bin\Debug\Window_shopper_recommender.XML
